@@ -1,1 +1,1 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBcnQtQXJ0IiwKICAiYWRkIjogIjIxNi4xMjYuMjI5LjE5NyIsCiAgInBvcnQiOiAyMTU1NywKICAiaWQiOiAiYzQ1YTExODItZWQzOC00NWZjLWJlMWMtZTRlZTZmYzhhOWFmIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+vless://ee27eee2-44ea-4328-94e0-93c4842e895b@104.194.157.96:22852?security=&type=tcp&encryption=none#Fam-16-12--2025
